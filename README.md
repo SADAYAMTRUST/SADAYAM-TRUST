@@ -50,9 +50,9 @@
     <h2>Contact Information</h2>
     <p><strong>SADAYAM TRUST</strong><br>
        Reg. No: ___<br>
-       📧 Email: sadayamtrust@example.com<br>
-       📞 Phone: +91‑98765‑43210<br>
-       📍 Address: [Registered address here]</p>
+       📧 Email: sadayamtrust@gmail.com<br>
+       📞 Phone: +91‑95261-22322<br>
+      📍 Address: Sadayam Trust Parassery,B.P. Angadi </p>
   </section>
 
   <footer>
